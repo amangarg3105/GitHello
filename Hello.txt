@@ -1,1 +1,2 @@
-This is my first git class. Say Hello. Aunty is here.
+This is my first git class. Say Hello. Aunty is here. Locker mein
+saman hai kuch. git commit nhi pta kya karu. Code pushed
